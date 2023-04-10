@@ -2,9 +2,8 @@ package day2HWDemo5;
 
 public class Day2HWTest5 {
 	
-	public static void main(String[] args) {
+	public void multiple() {
 		
-		System.out.println("Git HW Day 2 Project5...");
+		System.out.println(2*3);
 	}
-
 }
